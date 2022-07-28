@@ -86,3 +86,7 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+.social-links {
+  text-align: center;
+  padding-bottom: 40px;
+}
