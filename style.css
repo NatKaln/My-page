@@ -90,9 +90,3 @@ p {
   text-align: center;
   padding-bottom: 40px;
 }
-
-@media (max-width: 576px) {
-  p {
-    text-align: center;
-  }
-}
