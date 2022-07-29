@@ -38,7 +38,8 @@ p {
     line-height: 1.5;
   }
   h2 {
-    font-size: 36px;
+    font-size: 32px;
+    text-align: center;
   }
   p {
     text-align: center;
@@ -46,7 +47,8 @@ p {
   }
   .link-bnt {
     display: block;
-    margin: 0 auto;
+    text-align: center;
+    margin: 0 20px;
   }
 }
 
